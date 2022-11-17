@@ -49,13 +49,32 @@ head{
   }
   .div1 h1{
     font-size: 20px;
-    padding-top: 640px;
-    text-align: center;
+    padding-top: 580px;
+    text-align: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
   }
-  .div1 {
+  .div1 h2{
     font-size: 18px;
-    text-align: center;
+    text-align: right;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(100, 100, 100);
+  }
+  .div2 h1{
+    font-size: 30px;
+    color: black;
+    text-align: left;
+    padding-top: 570px;
+  }
+  .div2 h2{
+    color: rgb(87, 87, 87);
+  }
+  .div3 h1{
+    font-size: 30px;
+    text-align: right;
+    padding-top: 570px;
+  }
+  .div3 h2{
+    color: rgb(61, 62, 62);
+    text-align: right;
   }
