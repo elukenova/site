@@ -2,6 +2,9 @@
 *{
   box-sizing: border-box;
 }
+html{
+  background-color: rgb(207, 211, 103);
+}
 head{
   margin: 0;
 }
@@ -41,7 +44,7 @@ head{
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  .div1 img h1 h2{
+  .div1 img{
     top: 0;
     margin: 0;
     padding: 0;
@@ -67,6 +70,8 @@ head{
     padding-top: 570px;
   }
   .div2 h2{
+    font-size: 25px;
+    text-align: left;
     color: rgb(87, 87, 87);
   }
   .div3 h1{
@@ -75,6 +80,21 @@ head{
     padding-top: 570px;
   }
   .div3 h2{
+    font-size: 25px;
     color: rgb(61, 62, 62);
     text-align: right;
   }
+  .div4 h1{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+  }
+  .div4 h2{
+    color: rgb(53, 51, 53);
+    text-align: center;
+  }
+h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
