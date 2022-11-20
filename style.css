@@ -189,3 +189,40 @@ text-align: center;
 font-size: 25px;
 color: rgb(37, 37, 38);
 }
+.we{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.we p{
+  color: rgb(32, 32, 32);
+  font-size: 25px;
+}
+.div13{
+  padding: 20px;
+}
+.she{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div16{
+  padding: 20px;
+}
+.div17{
+  padding-right: 20px;
+}
+.she p{
+  color: rgb(36, 34, 34);
+  font-size: 20px;
+}
+footer {
+  list-style: none;
+  flex-direction: row;
+  
+}
+.he ul li{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
